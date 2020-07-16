@@ -1,5 +1,8 @@
 _repo: The-History-of-Badlands-National-Monument-and-the-White-River-Big-Badlands-of-South-Dakota-Ba__62641
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62641-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Mattison, Ray H.
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '52049'
     url: http://www.gutenberg.org/2009/agents/52049
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62641#The-History-of-Badlands-National-Monument-and-the-White-River-Big-Badlands-of-South-Dakota-Ba_
 gutenberg_issued: '2020-07-14'
 gutenberg_type: Text
 identifiers:
